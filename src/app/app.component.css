@@ -1,0 +1,17 @@
+
+textarea:disabled{
+    background-color: aliceblue;
+}
+
+.caps{
+    text-transform: uppercase;
+}
+
+.fcaps{
+    text-transform: capitalize;
+}
+label{
+    font-size: smaller;
+    font-weight:400;
+    color: rgb(70, 70, 70);
+}
